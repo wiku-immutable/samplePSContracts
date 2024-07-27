@@ -1,0 +1,16 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "IImmutableERC20Errors",
+  "sourceName": "@imtbl/contracts/contracts/token/erc20/preset/Errors.sol",
+  "abi": [
+    {
+      "inputs": [],
+      "name": "RenounceOwnershipNotAllowed",
+      "type": "error"
+    }
+  ],
+  "bytecode": "0x",
+  "deployedBytecode": "0x",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
